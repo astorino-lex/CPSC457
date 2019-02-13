@@ -1,0 +1,196 @@
+Guinea
+Ecuador
+Slovenia
+Zimbabwe
+Moldova
+Jamaica
+Tajikistan
+Suriname
+India
+Maldives
+Lithuania
+Honduras
+Thailand
+Ireland {Republic}
+Luxembourg
+Afghanistan
+Macedonia
+Albania
+Antigua & Deps
+East Timor
+Swaziland
+Finland
+Congo
+Fiji
+Benin
+Nicaragua
+Kyrgyzstan
+Sao Tome & Principe
+Spain
+Yemen
+Czech Republic
+United Kingdom
+Ethiopia
+Dominican Republic
+Lesotho
+Austria
+Malaysia
+Israel
+Serbia
+United States
+Togo
+Botswana
+Tanzania
+Laos
+Argentina
+Cape Verde
+Andorra
+Bahrain
+Oman
+Equatorial Guinea
+Mali
+Samoa
+Pakistan
+Somalia
+Taiwan
+Sierra Leone
+Tunisia
+Kazakhstan
+Namibia
+Congo {Democratic Rep}
+Guinea-Bissau
+Latvia
+Guatemala
+Sweden
+Cameroon
+Comoros
+Sudan
+Vietnam
+Monaco
+Switzerland
+Turkmenistan
+Indonesia
+Barbados
+El Salvador
+Belize
+Tonga
+Ghana
+Iraq
+Niger
+Jordan
+Estonia
+France
+Peru
+Syria
+Mongolia
+Nauru
+Grenada
+Belgium
+Marshall Islands
+Djibouti
+Denmark
+Azerbaijan
+Qatar
+Bolivia
+Turkey
+Belarus
+Armenia
+Trinidad & Tobago
+Iceland
+Nepal
+Bangladesh
+Japan
+Montenegro
+Korea South
+Mauritius
+Bulgaria
+Cambodia
+Egypt
+China
+Senegal
+Gambia
+Bhutan
+Malta
+Portugal
+Iran
+Uzbekistan
+Georgia
+Bosnia Herzegovina
+Kenya
+Slovakia
+Micronesia
+South Sudan
+Germany
+Vanuatu
+Burundi
+Mauritania
+Lebanon
+Chile
+Norway
+Burkina
+Myanmar, {Burma}
+St Kitts & Nevis
+Guyana
+Cyprus
+Venezuela
+Algeria
+Canada
+Vatican City
+Bahamas
+United Arab Emirates
+Madagascar
+Ukraine
+Zambia
+Korea North
+Sri Lanka
+Libya
+Netherlands
+Nigeria
+Panama
+Malawi
+South Africa
+Poland
+Philippines
+Rwanda
+Chad
+Central African Rep
+Morocco
+Tuvalu
+Dominica
+Saudi Arabia
+Colombia
+San Marino
+Kiribati
+Eritrea
+Solomon Islands
+Palau
+Hungary
+Russian Federation
+Uruguay
+Kuwait
+Seychelles
+Liberia
+Brazil
+Mozambique
+Liechtenstein
+Kosovo
+Angola
+Saint Vincent & the Grenadines
+Australia
+New Zealand
+St Lucia
+Haiti
+Gabon
+Brunei
+Paraguay
+Croatia
+Costa Rica
+Papua New Guinea
+Mexico
+Greece
+Singapore
+Cuba
+Ivory Coast
+Romania
+Italy
+Uganda
