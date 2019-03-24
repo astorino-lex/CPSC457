@@ -1,0 +1,18 @@
+------------------------------------------------
+Grant request <1 0 2> from P1.
+Sequence: P1, P3, P0, P2, P4.
+------------------------------------------------
+Grant request <0 0 0 1> from P1.
+Sequence: P0, P1, P2.
+------------------------------------------------
+Reject request <0 0 2 0> from P2.
+Reason: not enough resources available.
+------------------------------------------------
+Reject request <1 0 0 0> from P1.
+Reason: request is invalid (exceeding declared max for process).
+------------------------------------------------
+Grant request <0 0 0 1 0> from P3.
+Sequence: P2, P0, P1, P3.
+------------------------------------------------
+Reject request <0 1 0 0 0> from P0.
+Reason: request would result in an unsafe state.
